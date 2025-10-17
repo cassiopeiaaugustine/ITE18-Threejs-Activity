@@ -1,6 +1,6 @@
 # ITE18 — Three.js Activities
 
-This repository contains a series of Three.js activities (1.6 to 1.11) covering textures, materials, lighting, environment maps, 3D text, and interaction utilities.
+This repository contains a series of Three.js activities (1.1 to 1.11) covering textures, materials, lighting, environment maps, 3D text, and interaction utilities.
 
 Live Deployments (Vercel):
 - Activity 1.6: https://activity-1-6-97zy94o5g-cassandra-matayas-projects.vercel.app
